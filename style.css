@@ -22,14 +22,14 @@ header{
     padding-top: 40px;
     padding-bottom: 5px;
     text-align: center;
-    font-family: 'Original Surfer', cursive;
+    font-family: 'Times New Roman', Times, serif, cursive;
     font-size: 40px;
 }
 .title p{
     padding-left: 70px;
     padding-top: 0px;
     text-align: center;
-    font-family: 'Jomhuria', cursive;
+    font-family: 'Times New Roman', Times, serif, cursive;
     font-size: 30px;
 }
 nav{
@@ -54,17 +54,16 @@ nav li{
     padding: 5px;
     padding-right: 30px;
     padding-top: 9px;
-    /* margin-top: 15px; */
 }
 .list a{
     text-decoration: none;
     color: rgb(255, 174, 0);
     padding: 5px;
     border-radius: 15px;
-    font-family: 'Architects Daughter', cursive;
+    font-family: 'Times New Roman', Times, serif, cursive;
 }
 .list a:hover{
-    color: rgb(0, 212, 201);
+    color: rgb(13, 251, 239);
     background-color: rgb(59, 10, 10);
 }
 #home a{
@@ -80,7 +79,7 @@ nav li{
 }
 .main h3{
     text-align: center;
-    font-family: 'Freckle Face', cursive;
+    font-family: 'Times New Roman', Times, serif, cursive;
     font-size: 30px;
 }
 table{
@@ -94,7 +93,7 @@ th, td{
     padding: 12px 15px;
     text-align: center;
     border: 1px solid #ddd;
-    font-family: 'Cabin', sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
 }
 td img{
@@ -107,9 +106,8 @@ th{
 tbody tr:nth-child(even){
     background-color: rgb(253, 221, 80);
 }
-
 .offer{
-    font-family: 'Zilla Slab', serif;
+    font-family: 'Times New Roman', Times, serif;
     margin: auto;
     text-align: center;
     font-size: 20px;
@@ -117,13 +115,9 @@ tbody tr:nth-child(even){
 .offer h2{
     color: rgb(255, 0, 0);
 }
-
 .offer img{
-    /* align-self: center; */
     width: 50px;
-    /* float: left; */
 } 
-
 #contact{
     position: relative;
 }
@@ -134,7 +128,6 @@ tbody tr:nth-child(even){
     height: 100%;
     z-index: -1;
     opacity: 0.7;
-
 }
 #contact-box{
     display: flex;
@@ -149,13 +142,10 @@ tbody tr:nth-child(even){
     border-radius: 9px;
     font-size: 1.1rem;
 } 
-
 #contact-box form{
     width: 40%;
 }
-
 #contact-box label{
    font-size: 1.3rem;
-   font-family: 'Bree Serif',serif;
-
+   font-family: 'Times New Roman', Times, serif;
 }

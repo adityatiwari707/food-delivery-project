@@ -22,14 +22,14 @@ header{
     padding-top: 40px;
     padding-bottom: 5px;
     text-align: center;
-    font-family: 'Original Surfer', cursive;
+    font-family: 'Times New Roman', Times, serif, cursive;
     font-size: 40px;
 }
 .title p{
     padding-left: 70px;
     padding-top: 0px;
     text-align: center;
-    font-family: 'Jomhuria', cursive;
+    font-family: 'Times New Roman', Times, serif, cursive;
     font-size: 30px;
 }
 nav{
@@ -49,19 +49,17 @@ nav li{
     list-style-type: none;
 }
 .list{
-    
     float:left;
     padding: 5px;
     padding-right: 30px;
     padding-top: 9px;
-    /* margin-top: 15px; */
 }
 .list a{
     text-decoration: none;
     color: rgb(255, 174, 0);
     padding: 5px;
     border-radius: 15px;
-    font-family: 'Architects Daughter', cursive;
+    font-family: 'Times New Roman', Times, serif, cursive;
 }
 .list a:hover{
     color: rgb(0, 212, 201);
@@ -83,8 +81,6 @@ h1{
 }
 .chickens{
     margin: auto;
-    /* background-image: url(images/Spring-Roll-5.jpg); */
-
 }
 footer{
     text-align: center;

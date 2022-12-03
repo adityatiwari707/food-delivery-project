@@ -22,20 +22,20 @@ header{
     padding-top: 40px;
     padding-bottom: 5px;
     text-align: center;
-    font-family: 'Original Surfer', cursive;
+    font-family: 'Times New Roman', Times, serif, cursive;
     font-size: 40px;
 }
 .title p{
     padding-left: 70px;
     padding-top: 0px;
     text-align: center;
-    font-family: 'Jomhuria', cursive;
+    font-family: 'Times New Roman', Times, serif, cursive;
     font-size: 30px;
 }
 nav{
     margin:auto;
     margin-top: 0px;
-    background-color: black;
+    background-color: rgb(10, 10, 10);
     height: 40px;
     padding-top: 0px;
     display: block;
@@ -54,17 +54,16 @@ nav li{
     padding: 5px;
     padding-right: 30px;
     padding-top: 9px;
-    /* margin-top: 15px; */
 }
 .list a{
     text-decoration: none;
     color: rgb(255, 174, 0);
     padding: 5px;
     border-radius: 15px;
-    font-family: 'Architects Daughter', cursive;
+    font-family: 'Times New Roman', Times, serif, cursive;
 }
 .list a:hover{
-    color: rgb(0, 212, 201);
+    color: rgb(251, 230, 4);
     background-color: rgb(59, 10, 10);
 }
 #special a{
@@ -89,12 +88,11 @@ nav li{
 #offer_gif{
     border: 0px;
     padding-left: 40%;
-    
 }
 footer{
     text-align: center;
     padding: 1px;
     height: 48px;
     color: white;
-    background: #4d4040;
+    background: #2a2626;
 }
